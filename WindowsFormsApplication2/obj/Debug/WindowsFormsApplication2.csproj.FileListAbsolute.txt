@@ -1,0 +1,33 @@
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\KAPITypes.dll
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\KAPITypes.pdb
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\nnn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\KAPITypes.dll
+E:\8 семестр\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\KAPITypes.pdb
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\VKR_FlangeCoupling.Form1.resources
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\VKR_FlangeCoupling.Form2.resources
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\VKR_FlangeCoupling.exe.config
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\VKR_FlangeCoupling.exe
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\bin\Debug\VKR_FlangeCoupling.pdb
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\VKR_FlangeCoupling.Properties.Resources.resources
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\VKR_FlangeCoupling.exe
+E:\ВКР\kompas_test_winforms\WindowsFormsApplication2\obj\Debug\VKR_FlangeCoupling.pdb
